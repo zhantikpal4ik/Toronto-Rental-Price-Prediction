@@ -1,0 +1,69 @@
+name,address,lat,lon,formatted_address,geocode_status,valid_bbox
+Finch ,"5600 Yonge St, North York, ON",43.7798352,-79.4157812,"5600 Yonge St, North York, ON M2N 5S2, Canada",OK,True
+North York Centre ,"North York, ON M2N 6L8",43.768936,-79.41324200000001,"North York, ON M2N 6L8, Canada",OK,True
+Sheppard-Yonge,"North York, ON M2N 7H9",43.7617354,-79.4121867,"North York, ON M2N 7H9, Canada",OK,True
+York Mills,"North York, ON M2P 2E3",43.7452263,-79.4065579,"North York, ON M2P 2E3, Canada",OK,True
+Lawrence,"Lawrence Station, ON N0L 1P0",42.75594299999999,-81.414834,"Lawrence Station, ON N0L 1P0, Canada",OK,False
+Eglinton,"Toronto, ON M4S 2B8",43.7054105,-79.3988179,"Toronto, ON M4S 2B8, Canada",OK,True
+Davisville,"Toronto, ON M4S 1Z2",43.6975423,-79.3970587,"Toronto, ON M4S 1Z2, Canada",OK,True
+St. Clair,"Toronto, ON M4T 1K2",43.6870387,-79.3924847,"Toronto, ON M4T 1K2, Canada",OK,True
+Summerhill,"Toronto, ON M4T 1A1",43.6823459,-79.3906374,"Toronto, ON M4T 1A1, Canada",OK,True
+Rosedale,"Toronto, ON M4W 1S9",43.67745499999999,-79.3882622,"Toronto, ON M4W 1S9, Canada",OK,True
+Bloor,"2 Bloor St E, Toronto, ON M4W 1A8",43.67062019999999,-79.3863049,"2 Bloor St E, Toronto, ON M4W 1A8, Canada",OK,True
+Wellesley,"16 Wellesley St E, Toronto, ON M4Y 1G2",43.6652938,-79.383939,"16 Wellesley St E, Toronto, ON M4Y 3B2, Canada",OK,True
+College,"3 Carlton St., Toronto, ON M5B 1L2",43.6613341,-79.3830826,"3 Carlton St., Toronto, ON M5B 1L2, Canada",OK,True
+Dundas,"Toronto, ON M5B 2L6",43.65623919999999,-79.38016879999999,"Toronto, ON M5B 2L6, Canada",OK,True
+Queen,"8 Queen St W, Toronto, ON M5C 2X9",43.65236729999999,-79.379201,"8 Queen St W, Toronto, ON M5H 3X4, Canada",OK,True
+King,"3 King St E, Toronto, ON M5H 1A1",43.64916239999999,-79.37783739999999,"3 King St E, Toronto, ON M5H 1A1, Canada",OK,True
+Union,"55 Front Street West, Toronto, ON",43.6447084,-79.3782284,"55 Front St W, Toronto, ON M5J 2L5, Canada",OK,True
+St. Andrew,"173 King Street West, Toronto, ON",43.6474262,-79.38527239999999,"173 King St W, Toronto, ON M5H 4H2, Canada",OK,True
+Osgoode,"181 Queen Street West, Toronto, ON",43.6506815,-79.3869101,"181 Queen St W, Toronto, ON M5V 1Z4, Canada",OK,True
+St. Patrick,"Toronto, ON M5G 1W8",43.6546902,-79.38817430000002,"Toronto, ON M5G 1W8, Canada",OK,True
+Queen's Park,"Toronto, ON M7A 1A1",43.6607858,-79.3907253,"Toronto, ON M7A 1A1, Canada",OK,True
+Museum,"Toronto, ON M5S 2C5",43.6665841,-79.39406799999999,"Toronto, ON M5S 2C5, Canada",OK,True
+St. George,"139 St George St, Toronto, ON M5R 2L8",43.6682823,-79.3998402,"139 St George St, Toronto, ON M5R 2L8, Canada",OK,True
+Spadina,"Spadina Ave., Toronto, ON M5R 2S9",43.6525073,-79.3979879,"Spadina Ave., Toronto, ON, Canada",OK,True
+Dupont,"263 Dupont St, Toronto, ON M5R 1V8",43.6747675,-79.4067779,"263 Dupont St, Toronto, ON M5R 1V8, Canada",OK,True
+St. Clair West,"2, 8 Tichester Rd, Toronto, ON M5P 3L7",43.68614590000001,-79.4160359,"2, 8 Tichester Rd #2, Toronto, ON M5P 3L7, Canada",OK,True
+Eglinton West,"1300 Eglinton Ave E, Toronto, ON M3C 0C7",43.724455,-79.32579799999999,"1300 Eglinton Ave E, North York, ON M3C 0C7, Canada",OK,True
+Glencairn,"244 Viewmount Ave, North York, ON M6B 1T8",43.7079223,-79.4401693,"244 Viewmount Ave, North York, ON M6B 1T8, Canada",OK,True
+Lawrence West,"700 Lawrence Ave W, North York, ON M6A 3B4",43.7166199,-79.44753419999999,"700 Lawrence Ave W, North York, ON M6A, Canada",OK,True
+Yorkdale,"5234 William R. Allen Rd, Toronto, ON M6A 3A1",43.725589,-79.44785689999999,"5234 William R. Allen Rd, Toronto, ON M6A 3A1, Canada",OK,True
+Wilson,"Wilson Station Passenger Pick-up and Drop-off, 1079 Transit Rd, North York, ON M3H 0E2",43.7344053,-79.4516556,"Wilson Station Passenger Pick-up and Drop-off, 1079 Transit Rd, North York, ON M3H 0E2, Canada",OK,True
+Sheppard West,"Toronto, ON M3H 2T6",43.75050280000001,-79.46159899999999,"North York, ON M3H 2T6, Canada",OK,True
+York University,"120 Ian MacDonald Blvd, North York, ON M7A 2C5",43.7740024,-79.4999588,"120 Ian MacDonald Blvd, North York, ON M3J 0B5, Canada",OK,True
+Pioneer Vilage,"Steeles Ave W, Vaughan, ON L4K 4T4",43.7782696,-79.5083524,"Steeles Ave W, Concord, ON L4K 4T4, Canada",OK,True
+Highway 407,"7332 Jane St, Vaughan, ON L4K 1A7",43.7831329,-79.5237886,"7332 Jane St, Vaughan, ON L4K, Canada",OK,True
+Vaughan Metropolitan Centre,"3150 Hwy 7, Vaughan, ON L4K 4R6",43.79424119999999,-79.5274807,"3150 Hwy 7, Concord, ON L4K 4R6, Canada",OK,True
+Kipling,"5285 Dundas St W, Etobicoke, ON M9B",43.6370404,-79.53808430000001,"5285 Dundas St W, Etobicoke, ON M9B, Canada",OK,True
+Islington,"1226 Islington Avenue, Toronto, ON",43.645478,-79.52447149999999,"1226 Islington Ave, Etobicoke, ON M8X 1Y8, Canada",OK,True
+Royal York,"955 Royal York Road, Toronto, ON",43.64821600000001,-79.5112676,"955 Royal York Rd, Etobicoke, ON M8X 2E6, Canada",OK,True
+Old Mill,"2672 Bloor Street West, Toronto, ON",43.6498512,-79.49689,"2672 Bloor St W, Toronto, ON M8X 0A7, Canada",OK,True
+Jane,"15 Jane Street, Toronto, ON ",43.6498527,-79.4843635,"15 Jane St, Toronto, ON M6S 3Y3, Canada",OK,True
+Runnymede,"265 Runnymede Road, Toronto, ON",43.6517513,-79.4759751,"265 Runnymede Rd, Toronto, ON M6S 1N5, Canada",OK,True
+High Park,"35 Quebec Avenue, Toronto, ON",43.6539248,-79.4666573,"35 Quebec Ave, Toronto, ON M6P 2T3, Canada",OK,True
+Keele,"21 Keele Street, Toronto, ON",43.6555967,-79.4594729,"21 Keele St, Toronto, ON M6P 2J8, Canada",OK,True
+Dundas West,"2365 Dundas Street West, Toronto, ON",43.65689950000001,-79.4531287,"2365 Dundas St W, Toronto, ON M6P 1W7, Canada",OK,True
+Lansdowne,"6 Emerson Ave, Toronto, ON M6H 3S8",43.6592487,-79.441198,"6 Emerson Ave, Toronto, ON M6H 3S8, Canada",OK,True
+Dufferin,"1006 Dufferin Street, Toronto, ON M6H 1M8",43.6601826,-79.43568719999999,"1006 Dufferin St, Toronto, ON M6H 4B5, Canada",OK,True
+Ossington,"746 Ossington Avenue, Toronto, ON M6G 1M4",43.662358,-79.42634749999999,"746 Ossington Ave, Toronto, ON M6G 3T9, Canada",OK,True
+Christie,"5 Christie St, Toronto, ON M6G 3B1",43.6641012,-79.41834159999999,"5 Christie St, Toronto, ON M6G 3B1, Canada",OK,True
+Bathurst,"819 Bathurst St, Toronto, ON M5S 2R3",43.6649176,-79.4127043,"819 Bathurst St, Toronto, ON M5R 3G2, Canada",OK,True
+Bay,"136 Cumberland St, Toronto, ON M5R 1A6",43.6702339,-79.39248049999999,"136 Cumberland St, Toronto, ON M5R 1A6, Canada",OK,True
+Sherbourne,"Toronto, ON M4X 1X6",43.6719046,-79.37686959999999,"Toronto, ON M4X 1X6, Canada",OK,True
+Castle Frank,"Toronto, ON M4W 3Z2",43.6723157,-79.3713707,"Toronto, ON M4W 3Z2, Canada",OK,True
+Broadview,"769 Broadview Avenue, Toronto, ON ",43.6772537,-79.358436,"Broadview Subway Station Parkette, 769 Broadview Ave, Toronto, ON M4K 2P7, Canada",OK,True
+Chester,"22 Chester Avenue, Toronto, ON",43.6782237,-79.3524284,"22 Chester Ave, Toronto, ON M4K 2Z9, Canada",OK,True
+Pape,"Toronto, ON M4K 3T1",43.6801141,-79.3447075,"Toronto, ON M4K 3T1, Canada",OK,True
+Donlands,"Toronto, ON M4J 1P1",43.6808687,-79.3385466,"Toronto, ON M4J 1P1, Canada",OK,True
+Greenwood,"Toronto, ON M4J 4J6",43.6826096,-79.3302727,"Toronto, ON M4J 4J6, Canada",OK,True
+Coxwell,"355 Strathmore Blvd, Toronto, ON M4C 1N4",43.6841228,-79.3230287,"355 Strathmore Blvd, Toronto, ON M4C 1N4, Canada",OK,True
+Woodbine,"991 Woodbine Avenue, Toronto, ON",43.6863698,-79.3128218,"991 Woodbine Ave, Toronto, ON M4C 4B8, Canada",OK,True
+Main Street,"Toronto, ON M4C 4X6",43.68950359999999,-79.3020128,"Toronto, ON M4C 4X6, Canada",OK,True
+Victoria Park,"Scarborough, ON M4C 5S8",43.6952525,-79.2891566,"Scarborough, ON M4C 5S8, Canada",OK,True
+Warden,"701 Warden Ave., Scarborough, ON M1L 3Z5",43.7109749,-79.2799976,"701 Warden Ave., Scarborough, ON M1L 3Z5, Canada",OK,True
+Kennedy,"2455 Eglinton Ave E, Scarborough, ON M1K 3N7",43.7321536,-79.2641158,"2455 Eglinton Ave E, Toronto, ON M1K 2C1, Canada",OK,True
+Bayview,"2877 Bayview Ave, North York, ON M2K 3C8",43.7685814,-79.3872037,"2877 Bayview Ave, North York, ON M2K 2S3, Canada",OK,True
+Bessarion,"North York, ON M2K 3C9",43.7691953,-79.37568189999999,"North York, ON M2K 3C9, Canada",OK,True
+Leslie,"North York, ON M2K 1J2",43.7699815,-79.36749929999999,"North York, ON M2K 1J2, Canada",OK,True
+Don Mills,"1700 Sheppard Avenue East, Toronto, ON M2J 5G9",43.7761793,-79.3459945,"1700 Sheppard Ave E, Toronto, ON M2J 5G9, Canada",OK,True

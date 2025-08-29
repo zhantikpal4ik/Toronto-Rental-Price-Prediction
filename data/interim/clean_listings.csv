@@ -1,0 +1,90 @@
+title,price,sqft,bedrooms,bathrooms,address,neighbourhood,url,source,url_canon,address_norm,unit,source_rank,variant_id
+,2995.0,750.0,1.5,1.0,"35 Mariner Terr - Toronto, ON",,,,,35 mariner terr - toronto on,,999,69fbb2161b
+,2800.0,600.0,1.0,1.0,"224 King Street West - Toronto, ON",,,,,224 king street west - toronto on,,999,7140165d6e
+,2095.0,500.0,1.0,1.0,"11 Brunel Court - Toronto, ON",,,,,11 brunel court - toronto on,,999,fd258ce795
+,4200.0,1200.0,2.0,2.0,"85 Queens Wharf Road - Toronto, ON",,,,,85 queens wharf road - toronto on,,999,8d7917a01b
+,2300.0,600.0,1.0,1.0,"81 Navy Wharf Court - Toronto, ON",,,,,81 navy wharf court - toronto on,,999,d6d5a4e25a
+,2925.0,750.0,2.0,1.0,"333 Adelaide Street East - Toronto, ON",,,,,333 adelaide street east - toronto on,,999,5a6f9d0196
+,3250.0,799.0,2.0,2.0,"488 University Avenue - Toronto, ON",,,,,488 university avenue - toronto on,,999,3e70d773f0
+,2400.0,599.0,1.0,1.0,"832 Bay Street - Toronto, ON",,,,,832 bay street - toronto on,,999,8d87bf9f77
+,2250.0,525.0,1.0,1.0,"77 & 99 Gerrard Street West - Toronto, ON",,,,,77 & 99 gerrard street west - toronto on,,999,3ce8a8145b
+,3099.0,820.0,1.0,1.0,"131 Bloor Street West - Toronto, ON",,,,,131 bloor street west - toronto on,,999,ed739c477b
+,2975.0,799.0,1.5,1.0,"80 John Street - Toronto, ON",,,,,80 john street - toronto on,,999,701e65ecba
+,2980.0,680.0,1.0,2.0,"8 Charlotte Street - Toronto, ON",,,,,8 charlotte street - toronto on,,999,af18ef19dc
+,3200.0,750.0,2.5,2.0,"125 Blue Jays Way - Toronto, ON",,,,,125 blue jays way - toronto on,,999,68b028df60
+,3800.0,1024.0,2.5,2.0,"8 Charlotte Street - Toronto, ON",,,,,8 charlotte street - toronto on,,999,1a4ace37fd
+,2925.0,637.0,1.0,1.0,"633 Bay Street - Toronto, ON",,,,,633 bay street - toronto on,,999,b7c6d733c2
+,3300.0,786.0,2.0,2.0,"51 East Liberty Street - Toronto, ON",,,,,51 east liberty street - toronto on,,999,8e21d87dbb
+,2250.0,793.0,1.0,1.0,"1154 Queen St. W. - Toronto, ON",,,,,1154 queen st w - toronto on,,999,c62763b53c
+,2205.0,523.0,1.0,1.0,"410 Dufferin Street - Toronto, ON",,,,,410 dufferin street - toronto on,,999,ec256ddd90
+,2438.0,561.0,1.0,1.0,"410 Dufferin Street - Toronto, ON",,,,,410 dufferin street - toronto on,,999,a890b1aa92
+,1999.0,583.0,1.0,1.0,"87 Jameson Avenue - Toronto, ON",,,,,87 jameson avenue - toronto on,,999,d6cbbccc20
+,2750.0,650.0,1.5,1.0,"318 Richmond St W - Toronto, ON",,,,,318 richmond st w - toronto on,,999,92f43d6a4f
+,2565.0,671.0,2.0,1.0,"150 Dowling Avenue - Toronto, ON",,,,,150 dowling avenue - toronto on,,999,9c8531f9ac
+,2350.0,800.0,2.0,1.0,"179 Glenholme Avenue - Toronto, ON",,,,,179 glenholme avenue - toronto on,,999,54ea63d504
+,2495.0,850.0,2.0,1.0,"403 Woodbine Avenue - Toronto, ON",,,,,403 woodbine avenue - toronto on,,999,8c40a1b209
+,2249.0,566.0,1.0,1.0,"327 Chisholm Ave - Toronto, ON",,,,,327 chisholm ave - toronto on,,999,48f00a17e6
+,1825.0,451.0,0.0,1.0,"325 Sammon Avenue - East York, ON",,,,,325 sammon avenue - east york on,,999,eae0ebb00d
+,2119.0,598.0,1.0,1.0,"260 Gamble Ave - Toronto, ON",,,,,260 gamble ave - toronto on,,999,1844065717
+,1849.0,510.0,1.0,1.0,"338-342 Donlands Ave - Toronto, ON",,,,,338-342 donlands ave - toronto on,338,999,6ae61ed9fe
+,3950.0,1000.0,2.0,2.0,"20 Roblin Avenue - Toronto, ON",,,,,20 roblin avenue - toronto on,,999,1b0e81c7a9
+,1825.0,435.0,1.0,1.0,"2575 Danforth Avenue - Toronto, ON",,,,,2575 danforth avenue - toronto on,,999,e885c52a81
+,2250.0,535.0,2.0,1.0,"2575 Danforth Avenue - Toronto, ON",,,,,2575 danforth avenue - toronto on,,999,5b0273005b
+,2650.0,850.0,2.0,1.0,"112 Kenilworth Avenue - Toronto, ON",,,,,112 kenilworth avenue - toronto on,,999,ee4728da50
+,2065.0,750.0,1.0,1.0,"43 Thorncliffe Park Drive - Toronto, ON",,,,,43 thorncliffe park drive - toronto on,,999,bcd9cbc50a
+,2545.0,925.0,2.0,1.0,"43 Thorncliffe Park Drive - Toronto, ON",,,,,43 thorncliffe park drive - toronto on,,999,61f91bba05
+,2395.0,700.0,2.0,1.0,"1 Hassard Avenue - East York, ON",,,,,1 hassard avenue - east york on,,999,fad209a179
+,1750.0,650.0,1.0,1.0,"16 Fernwood Gardens - East York, ON",,,,,16 fernwood gardens - east york on,,999,9c23a25a95
+,3000.0,1000.0,2.0,1.0,"93B Douglas Crescent - East York, ON",,,,,93b douglas crescent - east york on,,999,450d67de3b
+,950.0,700.0,1.0,1.0,"398 O'Connor Drive - Toronto, ON",,,,,398 o'connor drive - toronto on,,999,f780755c58
+,1999.0,617.0,1.0,1.0,"2892 St Clair Avenue East - Toronto, ON",,,,,2892 st clair avenue east - toronto on,,999,d81c391a5c
+,2549.0,653.0,2.0,1.0,"2892 St Clair Avenue East - Toronto, ON",,,,,2892 st clair avenue east - toronto on,,999,8bf5637d2a
+,1950.0,750.0,1.0,1.0,"540 Dawes Road - Toronto, ON",,,,,540 dawes road - toronto on,,999,f1db3c2c62
+,1900.0,750.0,1.0,1.0,"390 Dawes Road - East York, ON",,,,,390 dawes road - east york on,,999,42b80335e5
+,2350.0,672.0,1.0,1.0,"75 Eastdale Ave - Toronto, ON",,,,,75 eastdale ave - toronto on,,999,4bd6cde5c1
+,2650.0,576.0,1.5,2.0,"2369 Danforth Avenue - Toronto, ON",,,,,2369 danforth avenue - toronto on,,999,44afdff799
+,2280.0,510.0,1.0,1.0,"2301 Danforth Avenue - Toronto, ON",,,,,2301 danforth avenue - toronto on,,999,19294c142f
+,2100.0,715.0,1.0,1.0,"189 Cedarvale Avenue - East York, ON",,,,,189 cedarvale avenue - east york on,,999,1fa8f8f72f
+,2499.0,780.0,2.0,1.0,"19-23 Engelhart Cres,64-68 Harris Park Dr - Scarborough, ON",,,,,19-23 engelhart cres 64-68 harris park dr - scarborough on,19,999,82104b5cee
+,2499.0,798.0,2.0,1.0,"4 Treewood Street - Scarborough, ON",,,,,4 treewood street - scarborough on,,999,ef7869780c
+,2695.0,600.0,1.0,1.0,"190 Borough Drive - Scarborough, ON",,,,,190 borough drive - scarborough on,,999,881cb5cb7b
+,2750.0,999.0,2.5,2.0,"30 Thunder Grove - Scarborough, ON",,,,,30 thunder grove - scarborough on,,999,0b8f4f3919
+,2099.0,950.0,1.0,1.0,"15 Brookbanks Drive - Toronto, ON",,,,,15 brookbanks drive - toronto on,,999,4ede5d514b
+,3200.0,1100.0,3.0,1.0,"10 Chipping Road - Toronto, ON",,,,,10 chipping road - toronto on,,999,ef615b8f2e
+,1945.0,485.0,1.0,1.0,"22 Elkhorn Drive - North York, ON",,,,,22 elkhorn drive - north york on,,999,667159012c
+,2700.0,795.0,2.0,1.0,"22 Elkhorn Drive - North York, ON",,,,,22 elkhorn drive - north york on,,999,8bba6182ae
+,2200.0,550.0,1.0,1.0,"625 Sheppard Avenue East - North York, ON",,,,,625 sheppard avenue east - north york on,,999,4e7ed7c924
+,2850.0,931.0,2.0,1.0,"2911 Bayview Avenue - Toronto, ON",,,,,2911 bayview avenue - toronto on,,999,72ed7e1853
+,3150.0,650.0,2.0,2.0,"6 Greenbriar Road - Toronto, ON",,,,,6 greenbriar road - toronto on,,999,9e21a6f288
+,3050.0,750.0,2.0,2.0,"15 Holmes Avenue - North York, ON",,,,,15 holmes avenue - north york on,,999,aacfdb71c8
+,2480.0,775.0,1.0,1.0,"4500 Jane Street - North York, ON",,,,,4500 jane street - north york on,,999,257d5fa04b
+,2175.0,671.0,1.0,1.0,"18 & 20 Skipton Crt - North York, ON",,,,,18 & 20 skipton crt - north york on,,999,24a34042af
+,2100.0,723.0,1.0,1.0,"3400 Keele Street - North York, ON",,,,,3400 keele street - north york on,,999,359d5c92ab
+,1895.0,576.0,1.0,1.0,"1450 Sheppard Avenue West - Toronto, ON",,,,,1450 sheppard avenue west - toronto on,,999,9282644544
+,1950.0,750.0,1.0,1.0,"3250 Keele Street - Toronto, ON",,,,,3250 keele street - toronto on,,999,a296a3f684
+,2075.0,598.0,1.0,1.0,"3390 Keele Street - Toronto, ON",,,,,3390 keele street - toronto on,,999,b967691d1f
+,2095.0,511.0,1.0,1.0,"299 Campbell Avenue - Toronto, ON",,,,,299 campbell avenue - toronto on,,999,b7e5c73a0c
+,2100.0,513.0,1.0,1.0,"75 Canterbury Place - North York, ON",,,,,75 canterbury place - north york on,,999,69f6c5eaf1
+,2250.0,620.0,1.0,1.0,"18 Sommerset Way - North York, ON",,,,,18 sommerset way - north york on,,999,fa437928ce
+,2450.0,600.0,1.5,1.0,"18 Holmes Avenue - North York, ON",,,,,18 holmes avenue - north york on,,999,14b6187e26
+,2400.0,680.0,1.0,1.0,"700 Humberwood Blvd - Etobicoke, ON",,,,,700 humberwood blvd - etobicoke on,,999,ae515d8e04
+,2782.0,803.0,1.0,1.0,"4001 - 4005 Bayview Avenue - North York, ON",,,,,4001 - 4005 bayview avenue - north york on,4001,999,63dbcc9100
+,3700.0,1100.0,4.0,2.0,"60 Bevdale Road - Toronto, ON",,,,,60 bevdale road - toronto on,,999,310afcacf0
+,2275.0,490.0,1.0,1.0,"151 Beecroft Road - Toronto, ON",,,,,151 beecroft road - toronto on,,999,22e7c59733
+,2000.0,530.0,1.0,1.0,"4955 Yonge Street - Toronto, ON",,,,,4955 yonge street - toronto on,,999,e4e16f5a37
+,1790.0,338.0,1.0,1.0,"4750 Bathurst Street - Toronto, ON",,,,,4750 bathurst street - toronto on,,999,96e68cfae2
+,2195.0,491.0,1.0,1.0,"44 Lillian Street - Toronto, ON",,,,,44 lillian street - toronto on,,999,c7f5d06f3a
+,2250.0,540.0,1.0,1.0,"45 Dunfield Avenue - Toronto, ON",,,,,45 dunfield avenue - toronto on,,999,98759e7406
+,2518.0,569.0,1.0,1.0,"223 Redpath Avenue - Toronto, ON",,,,,223 redpath avenue - toronto on,,999,a5e43499c2
+,2650.0,690.0,2.0,1.0,"365 Eglinton Avenue East - Toronto, ON",,,,,365 eglinton avenue east - toronto on,,999,5ec2c6ac0f
+,2100.0,650.0,1.0,1.0,"725 Eglinton Ave W - Toronto, ON",,,,,725 eglinton ave w - toronto on,,999,4152e948f5
+,3500.0,1250.0,3.0,2.0,"21 Mayfair Avenue - Toronto, ON",,,,,21 mayfair avenue - toronto on,,999,638dac1c99
+,2500.0,514.0,1.0,1.0,"5-31 York Garden Way - Toronto, ON",,,,,5-31 york garden way - toronto on,5,999,deb8650b58
+,2440.0,590.0,1.0,1.0,"1862 Bathurst St. - Toronto, ON",,,,,1862 bathurst st - toronto on,,999,2f7beac37c
+,2500.0,714.0,2.0,1.0,"830 Lawrence Avenue West - North York, ON",,,,,830 lawrence avenue west - north york on,,999,844add6bea
+,2195.0,800.0,2.0,1.0,"146 Sixth Street - Toronto, ON",,,,,146 sixth street - toronto on,,999,8fc601a11a
+,2420.0,900.0,2.0,1.0,"2 Wesley Street - Toronto, ON",,,,,2 wesley street - toronto on,,999,c3bbefe26d
+,2275.0,900.0,2.0,1.0,"162 Berry Road - Etobicoke, ON",,,,,162 berry road - etobicoke on,,999,22d98c801f
+,1900.0,576.0,1.0,1.0,"24 Mabelle Avenue - Etobicoke, ON",,,,,24 mabelle avenue - etobicoke on,,999,63c4650289
+,2597.0,943.0,2.0,1.0,"1154 Wilson Avenue - North York, ON",,,,,1154 wilson avenue - north york on,,999,8c5c16b85d
+,2200.0,933.0,2.0,1.0,"104 Rajah Street - Toronto, ON",,,,,104 rajah street - toronto on,,999,52c889af40
